@@ -29,7 +29,7 @@
   display: inline-block;
   box-shadow: 0 39px 60px 0 rgba(0, 0, 0, 0.1425);
 }
-#card__image {
+.card__image {
   display: block;
 }
 .card-text {
